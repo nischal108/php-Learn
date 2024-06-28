@@ -1,0 +1,1 @@
+Write a code in php to create a session, retrieving the value from session and removing session and session variables
